@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello! 
 
-<!--
-**baudii/baudii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Baudi, and I am a developer with a primary stack of C# and .NET.
 
-Here are some ideas to get you started:
+## Technologies I work with:
+- C#, .NET
+- C++
+- JavaScript
+- Python
+- Unity
+- XML, HTML5, CSS3
+- SQL
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always open to new and interesting projects and collaborations!
